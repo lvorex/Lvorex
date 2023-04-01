@@ -7,6 +7,7 @@
 ╠═ LUA
 ╠═ JS
 ╠═ TS
+╠═ PHP
 ╠═ HTML
 ╠═ CSS
 ╠═ C++
